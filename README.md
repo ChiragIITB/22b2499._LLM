@@ -1,5 +1,15 @@
 # 22b2499._LLM
 
+# Machine Learning 
+Machine Learning is a subdomain of artificial intelligence where we analyze and extract patterns from data and make intelligent predictions on new data based on the learnings.
+
+# Deep Learning
+It is a further sub category of machine learning which aims at learning feature hierarchies. Autmatically learning features at different level of abstraction can allow complex mapping of input directly to the data without any human intervention for feature engineering. 
+
+
+
+
+
 
 # The OpenAI (Python) API
 ## What's an API ?
