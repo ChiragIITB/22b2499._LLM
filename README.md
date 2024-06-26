@@ -6,9 +6,13 @@ Machine Learning is a subdomain of artificial intelligence where we analyze and 
 # Deep Learning
 It is a further sub category of machine learning which aims at learning feature hierarchies. Autmatically learning features at different level of abstraction can allow complex mapping of input directly to the data without any human intervention for feature engineering. 
 
-
-
-
+## Applications of Deep Learning
+Image recognition
+Classification and localization
+Chatbots 
+Search recognition
+Music generation
+Brain tumor detection
 
 
 # The OpenAI (Python) API
