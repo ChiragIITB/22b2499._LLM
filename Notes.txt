@@ -1,0 +1,27 @@
+SOC'24 
+Project : When "LLM" meets "Web-Dev"
+
+Notes for the ML and DL part
+
+Machine Learning 
+It is a subdomain of artifical intelligence where machines learn patterns from a certain set of data using an algorithm and make prediction based on that on new data sets.
+
+There are three methods of machine learning, 
+
+Supervised Learning : Uses labelled data to train the model, to find relations and use them to predict outputs.
+ 
+Unsupervised learning : Uses unlabelled data for the training of the model, and is used for finding patterns and classification. 
+
+Reinforcement Learning : It is a reward based learning, through an interactice environment,  where we provide feedback about if the output is correct or not by rewarding and penalising the machines. 
+
+# Deep Learning
+It is a further sub category of machine learning which aims at learning feature hierarchies. Autmatically learning features at different level of abstraction can allow complex mapping of input directly to the data without any human intervention for feature engineering. 
+
+## Applications of Deep Learning
+1) Image recognition
+2) Classification and localization
+3) Chatbots 
+4) Search recognition
+5) Music generation
+6) Brain tumor detection, etc
+
